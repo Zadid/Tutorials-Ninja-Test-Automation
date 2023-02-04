@@ -1,0 +1,13 @@
+<suite name="org.testCases">
+    <test name="TestNG">
+        <groups>
+            <run>
+                <include name ="Register Successful" />
+                <include name ="Process after login" />
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.TestNG" />
+        </classes>
+    </test>
+</suite>

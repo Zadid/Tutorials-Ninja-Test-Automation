@@ -1,0 +1,11 @@
+org\tutorialsNinjaPages\RegistrationConfirmationPage.class
+org\example\Main.class
+org\tutorialsNinjaPages\ViewCartPage.class
+org\tutorialsNinjaPages\HomePage.class
+org\tutorialsNinjaPages\LogoutPage.class
+org\example\ReadData.class
+org\tutorialsNinjaPages\MyAccountPage.class
+org\tutorialsNinjaPages\SelectProductPage.class
+org\example\TestNG.class
+org\tutorialsNinjaPages\HomepageAfterLogin.class
+org\tutorialsNinjaPages\RegisterForm.class
